@@ -1,0 +1,2 @@
+# minsk
+BeerJS:  Minsk, Belarus
