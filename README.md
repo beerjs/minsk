@@ -2,7 +2,7 @@
 
 The legendary frontend meetup is back again!
 
-Usual time: **Each 3rd Friday at 8:00 p.m.**
+Usual time: **Each NaN day.random() at 7:00 p.m.**
 
 [Join us](https://www.facebook.com/beerjsminsk/) at Facebook
 
@@ -23,3 +23,5 @@ Version | Event                                                      | Date
 11       | [BeerJS @ СтаромесныПивовар](https://www.facebook.com/events/1980763755506451/)        | 3 March 2018
 12       | [BeerJS @ СтаромесныПивовар](https://www.facebook.com/events/188119848469136/)        | 30 March 2018
 13       | [BeerJS x JS Dev DAy](https://www.facebook.com/events/2075773452677486/)        | 25 May 2018
+14       | [BeerJS Summit @ SPACE](https://www.facebook.com/events/174232359959486/)        | 30 June 2018
+15       | [BeerJS Summit @ Irish Pub Clever](https://facebook.com/events/2203007616595922/)        | 18 July 2018
