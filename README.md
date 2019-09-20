@@ -27,3 +27,5 @@ Version | Event                                                      | Date
 15       | [BeerJS @ Irish Pub Clever](https://facebook.com/events/2203007616595922/)        | 18 July 2018
 16       | [BeerJS x RS Summer Summit @ СтаромесныПивовар](https://www.facebook.com/events/240649163261224/)        | 18 August 2018
 17       | [BeerJS x CSS-MINSK-JS @ Craftman](https://www.facebook.com/events/288651785063646/)  | 21 September 2018
+18       | [BeerJS x CSS-MINSK-JS @ Craftman](https://www.facebook.com/events/2429696503733545/)  | 19 September 2018
+19       | [BeerJS x CSS-MINSK-JS @ Craftman](https://www.facebook.com/events/375766163355141/)  | 20 September 2018
